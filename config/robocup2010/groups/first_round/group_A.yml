@@ -1,0 +1,13 @@
+---
+mode: group
+title: RoboCup 2010 First Round, Group A
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/groups/group_A
+teams:
+  - wrighteagle
+  - ncl
+#  - leakindrops
+  - fiftystorms
+  - nemesis

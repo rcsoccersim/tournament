@@ -1,0 +1,11 @@
+---
+mode: group
+title: RoboCup 2010 Places 17 to 19
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/places/places_17_to_19
+teams:
+  - fiftystorms
+  - bahia 
+  - aua

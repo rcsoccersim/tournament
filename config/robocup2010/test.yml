@@ -1,0 +1,39 @@
+---
+mode: one_vs_all
+title: RoboCup 2010 Qualification Binary Test
+server_conf: config/rcssserver/server_test.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/binarytest/%Y%m%d%H%M
+match_sleep: 2
+shutdown_sleep: 2
+team_mode: official
+server: rcsim1
+hosts:
+  - rcsim3
+  - rcsim4
+  - rcsim5
+  - rcsim6
+teams:
+  - agent2d
+  - kickofftug_rc10
+  - apollo
+  - aua
+  - bahia
+  - brainstormers
+  - eskilas 
+  - fcpars
+  - fcportugal
+  - fiftystorms
+  - helios
+  - hfutengine
+  - iran
+  - leakindrops
+  - ncl
+  - nemesis
+  - opuci
+  - oxsy
+  - raic
+  - rione
+  - unique
+  - wrighteagle

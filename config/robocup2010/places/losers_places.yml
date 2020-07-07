@@ -1,0 +1,11 @@
+---
+mode: matchlist
+title: RoboCup 2010 Places 5 to 8
+server_conf: config/rcssserver/server_finalmatch.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+show_scoreboard: no
+log_dir: log/robocup2010/places/places_5_to_8
+matches:
+  - [unique, nemesis]
+  - [hfutengine, fcportugal]

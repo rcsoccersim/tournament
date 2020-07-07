@@ -1,0 +1,51 @@
+---
+mode: group
+title: RoboCup 2010 Qualification
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/qualification/tournament
+team_mode: official
+server: rcsim1
+hosts:
+  - rcsim3 
+  - rcsim4
+  - rcsim5
+  - rcsim6
+teams:
+  - adro
+  - apollo2d
+  - aua
+  - bahia2d
+  - brainstormers
+  - fabulous
+  - fcpars
+  - fcportugal2d
+  - fifty-storms
+  - gpc
+  - helium
+  - hellibash
+  - hfutengine
+  - iran
+  - kickofftug
+  - leakindrops
+  - liongriffins
+  - lsuamoynq
+  - mecateam
+  - ncl
+  - nemesis
+  - opuci
+  - ozhan
+  - paranoid
+  - persiangulf2d
+  - petsoccer
+  - raic09
+  - rione
+  - robosampad
+  - robosina
+  - shahedtech
+  - unique
+  - united
+  - unknown09
+  - vanda
+  - xenex

@@ -1,0 +1,11 @@
+---
+mode: one_vs_all
+title: RoboCup 2010 Qualification Binary Test
+server_conf: config/rcssserver/server_test.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/binarytest/%Y%m%d%H%M
+match_sleep: 0
+team_mode: official
+teams:
+  - agent2d

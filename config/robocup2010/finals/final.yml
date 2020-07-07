@@ -1,0 +1,12 @@
+---
+mode: matchlist
+title: RoboCup 2010 Final
+server_conf: config/rcssserver/server_finalmatch.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+show_scoreboard: no
+match_sleep: 15
+log_dir: log/robocup2010/finals/final
+matches:
+  - [helios, wrighteagle]
+  - [wrighteagle, helios]

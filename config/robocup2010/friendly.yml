@@ -1,0 +1,20 @@
+---
+mode: group
+title: RoboCup 2010 Friendly Matches
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/friendly/%Y%m%d%H%M
+server: rcsim1
+hosts:
+  - rcsim3 
+  - rcsim4
+  - rcsim5
+  - rcsim6
+teams:
+  - brainstormers
+  - kickofftug
+  - leakindrops
+  - unique
+  - iran
+  - fiftystorms

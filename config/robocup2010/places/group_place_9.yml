@@ -1,0 +1,12 @@
+---
+mode: group
+title: RoboCup 2010 Places 9 to 12
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/places/places_9_to_12
+teams:
+  - opuci
+  - fcpars
+  - kickofftug 
+  - raic

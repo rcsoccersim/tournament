@@ -1,0 +1,13 @@
+---
+mode: group
+title: RoboCup 2010 Second Round, Group H
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/groups/group_H
+teams:
+  - fcpars
+  - nemesis
+  - apollo
+  - aua
+  - kickofftug

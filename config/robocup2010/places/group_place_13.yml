@@ -1,0 +1,12 @@
+---
+mode: group
+title: RoboCup 2010 Places 13 to 16 
+server_conf: config/rcssserver/server_official.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+log_dir: log/robocup2010/places/places_13_to_16
+teams:
+  - apollo
+  - ncl
+  - iran 
+  - rione

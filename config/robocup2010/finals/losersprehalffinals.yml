@@ -1,0 +1,11 @@
+---
+mode: matchlist
+title: RoboCup 2010 Losers Pre Half Finals
+server_conf: config/rcssserver/server_finalmatch.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+show_scoreboard: no
+log_dir: log/robocup2010/finals/losers_pre_half_finals
+matches:
+  - [hfutengine, eskilas]
+  - [unique, fcportugal]

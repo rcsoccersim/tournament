@@ -1,0 +1,17 @@
+---
+mode: matchlist
+title: RoboCup 2010 Eighths Finals
+server_conf: config/rcssserver/server_finalmatch.conf
+player_conf: config/rcssserver/player_official.conf
+teams_dir: /home/
+show_scoreboard: no
+log_dir: log/robocup2010/finals/eighths_finals
+matches:
+  - [wrighteagle, iran]
+  - [opuci, kickofftug]
+  - [helios, rione]
+  - [fcpars, raic]
+  - [oxsy, apollo]
+  - [unique, hfutengine]
+  - [nemesis, ncl]
+  - [eskilas, fcportugal]

@@ -1,0 +1,36 @@
+---
+mode: group
+title: Tournament Results
+build: no
+simulate: no
+resume: no
+save_logging: no
+max_matches: -1
+statistics: no
+robocup2flash: no
+match_sleep: 20
+shutdown_sleep: 5
+agent_sleep: 3
+agent_range: 1..12
+show_scoreboard: yes
+team_mode: default
+log_dir: log/%Y%m%d%H%M
+server_conf: 
+player_conf: 
+stylesheet_url: ../results.xsl
+game_log_extension: .rcg.gz
+text_log_extension: .rcl.gz
+rcssserver_bin: /usr/local/bin/rcssserver
+statistics_bin: "" 
+statistics_dir: ""
+robocup2flash_bin: robocup2flash --nohead --goallabels 80 
+rcgverconv_bin: rcgverconv
+gzip_bin: gzip
+teams_dir: teams/
+exception_patterns: []
+server: localhost
+hosts:
+  - localhost
+  - localhost
+teams: []
+matches: []
